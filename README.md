@@ -1,4 +1,5 @@
 ## ArgCMV: An Argument Summarization Benchmark for the LLM-era (EMNLP Main 2025)
+#### Authors: Omkar Gurjar, Agam Goyal, Eshwar Chandrasekharan
 
 This repository contains the code and data for the paper "ArgCMV: An Argument Summarization Benchmark for the LLM-era" which was accepted at EMNLP 2025.
 
@@ -24,3 +25,16 @@ The data is contained in the `data` folder as `json` files, where each item has 
 - `unsloth==2024.12.4` (https://docs.unsloth.ai/)
 - `openai==1.78.0`
 - `torch==2.5.1`
+
+### Citation
+If you use our code and/or data in your research, please cite as follows:
+```
+@inproceedings{
+gurjar2025argcmv,
+title={Arg{CMV}: An Argument Summarization Benchmark for the {LLM}-era},
+author={Omkar Gurjar and Agam Goyal and Eshwar Chandrasekharan},
+booktitle={The 2025 Conference on Empirical Methods in Natural Language Processing},
+year={2025},
+url={https://openreview.net/forum?id=eQeOPZCXBu}
+}
+```
