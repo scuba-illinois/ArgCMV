@@ -1,6 +1,8 @@
 ## ArgCMV: An Argument Summarization Benchmark for the LLM-era (EMNLP Main 2025)
 #### Authors: Omkar Gurjar, Agam Goyal, Eshwar Chandrasekharan
 
+[*Paper Link*](https://aclanthology.org/2025.emnlp-main.1110/)
+
 This repository contains the code and data for the paper "ArgCMV: An Argument Summarization Benchmark for the LLM-era" which was accepted at EMNLP 2025.
 
 ### Data
