@@ -31,12 +31,18 @@ The data is contained in the `data` folder as `json` files, where each item has 
 ### Citation
 If you use our code and/or data in your research, please cite as follows:
 ```
-@inproceedings{
-gurjar2025argcmv,
-title={Arg{CMV}: An Argument Summarization Benchmark for the {LLM}-era},
-author={Omkar Gurjar and Agam Goyal and Eshwar Chandrasekharan},
-booktitle={The 2025 Conference on Empirical Methods in Natural Language Processing},
-year={2025},
-url={https://openreview.net/forum?id=eQeOPZCXBu}
+@inproceedings{gurjar-etal-2025-argcmv,
+    title = "{A}rg{CMV}: An Argument Summarization Benchmark for the {LLM}-era",
+    author = "Gurjar, Omkar  and
+      Goyal, Agam  and
+      Chandrasekharan, Eshwar",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.1110/",
+    pages = "21881--21894",
+    ISBN = "979-8-89176-332-6",
 }
 ```
